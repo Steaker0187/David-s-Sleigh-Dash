@@ -26,7 +26,7 @@
 
 ## Installation & Usage
 
-1. **Clone or download** this repository.
+1. **Clone or download** this repository. Install the images and all as well as the python file itself (5 images & 1 .py)
 2. Install Python (3.7+) and Pygame:
    ```bash
    pip install pygame
