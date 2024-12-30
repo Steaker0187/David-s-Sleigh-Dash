@@ -1,4 +1,3 @@
-```python
 import pygame
 import sys
 import random
@@ -455,4 +454,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-```
